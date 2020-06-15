@@ -22,7 +22,7 @@
     <div class="uk-grid uk-child-width-1-3@s uk-child-width-1-1" uk-grid>
         <form class="uk-form-stacked js-enviar" >
 
-            <h2>Envio alertas SMS resultados COVID- 19</h2>
+            <h2>Envío alertas SMS resultados COVID- 19</h2>
 
              <div class="uk-margin">
                 <label class="uk-form-label" for="form-stacked-text">Checar folios con:</label>

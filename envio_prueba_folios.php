@@ -119,7 +119,7 @@ if (!in_array($folios,$folios_ref)){
 			else{
 				
 	            $caso_2++;
-					
+				continue;	
 				}
 
 		
